@@ -28,8 +28,8 @@ To set up the IMU with your Linux: https://github.com/rsx-utoronto/rover/wiki/Co
 In all separate termials, run:
 
 `cd ~/catkin_ws`
-`
-catkin_make`
+
+`catkin_make`
 
 `roscore`
 
